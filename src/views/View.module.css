@@ -1,0 +1,36 @@
+.form {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 350px;
+  padding-left: 20px;
+  padding-right: 20px;
+  list-style: none;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  font-size: large;
+  color: #2a363b;
+}
+.heading {
+  text-align: center;
+  color: #2a363b;
+  margin-top: 20px;
+}
+.findcontacts {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+
+.text {
+  text-align: center;
+  font-size: large;
+  color: #2a363b;
+}
